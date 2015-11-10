@@ -5,8 +5,7 @@ import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;  
 	/**  
 	 * Job Logic
-	 * @author Jeremy Zhang  
-	 *  
+	 * @author Jeremy Zhang    
 	 */  
 	public class roundCheck implements Job {  
 	  
